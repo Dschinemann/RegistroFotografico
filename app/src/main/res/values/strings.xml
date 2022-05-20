@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FotosEscalasoft</string>
+    <string name="Fotos">Selecione as fotos que deseja enviar</string>
+    <string name="Ordem">Ordem</string>
+    <string name="NumeroOrdem">Informe o número da ordem</string>
+    <string name="Enviar">Enviar</string>
+    <string name="User">Usuário</string>
+    <string name="Usuario">Usuário</string>
+    <string name="Password">Senha</string>
+    <string name="ButtonLogin">Entrar</string>
+    <string name="preview_area">preview_area</string>
+    <string name="PhotoName">Nome da Foto</string>
+    <string name="fotoDoAnexo">Foto do anexo</string>
+    <string name="Foto">Foto</string>
+    <string name="Nova_foto">Nova Foto</string>
+    <string name="ErrorLogin">Não foi possível logar no WebService</string>
+    <string name="TipoFotoContainerVazio">Container Vazio</string>
+    <string name="Bobinas">Bobinas</string>
+    <string name="CntrPortaAberta">Carga de porta aberta</string>
+    <string name="Checklist">Checklist</string>
+    <string name="Lacre">Lacre</string>
+    <string name="PortaLacrada">Porta Lacrada</string>
+    <string name="checkbox">CheckBox</string>
+</resources>
